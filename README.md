@@ -1,17 +1,17 @@
-# 🏆 Rapport Complet de Projet : Prédiction de la CAN 2025
+# Rapport Complet de Projet : Prédiction de la CAN 2025
 
-## 📄 Introduction
+## Introduction
 Ce projet de Data Science a pour ambition de prédire le dénouement de la Coupe d'Afrique des Nations (CAN) 2025 qui se déroule au Maroc. En combinant l'historique des matchs internationaux de football africain et des techniques de modélisation statistique, nous avons construit un pipeline complet allant de la collecte des données brutes jusqu'à la simulation finale du tournoi.
 
 L'objectif est d'identifier non seulement le vainqueur probable, mais aussi de simuler le parcours de chaque équipe, des phases de groupes jusqu'à la finale.
 
 ---
 
-## 📂 Architecture et Déroulement du Projet
+## Architecture et Déroulement du Projet
 
 Le projet est structuré de manière séquentielle dans le dossier `CAN_2025`. Chaque étape critique correspond à un notebook Jupyter spécifique.
 
-### 📋 Étape 1 : Collecte de Données (Web Scraping)
+### Étape 1 : Collecte de Données (Web Scraping)
 *   **Fichier :** [`1_web_scraping.ipynb`](CAN_2025/1_web_scraping.ipynb)
 *   **Description Détaillée :**
     Cette première étape est cruciale pour alimenter notre modèle. Nous avons développé des scripts de scraping pour extraire les résultats des matchs de football internationaux depuis plusieurs décennies.
@@ -21,7 +21,7 @@ Le projet est structuré de manière séquentielle dans le dossier `CAN_2025`. C
 
 ---
 
-### 🧹 Étape 2 : Nettoyage et Préparation des Données
+### Étape 2 : Nettoyage et Préparation des Données
 *   **Fichier :** [`2_data_cleaning.ipynb`](CAN_2025/2_data_cleaning.ipynb)
 *   **Description Détaillée :**
     Les données brutes comportent souvent des erreurs ou des incohérences. Cette étape vise à garantir la qualité de la donnée.
@@ -41,7 +41,7 @@ Le projet est structuré de manière séquentielle dans le dossier `CAN_2025`. C
 
 ---
 
-### 📊 Étape 3 : Analyse de la Force des Équipes
+### Étape 3 : Analyse de la Force des Équipes
 *   **Fichier :** [`3_team_strength.ipynb`](CAN_2025/3_team_strength.ipynb)
 *   **Description Détaillée :**
     C'est le cœur de notre moteur de prédiction. Nous calculons ici la "Force" (Strength) offensive et défensive de chaque nation qualifiée.
@@ -56,7 +56,7 @@ Le projet est structuré de manière séquentielle dans le dossier `CAN_2025`. C
 
 ---
 
-### 🎲 Étape 4 : Simulation de la Phase de Groupes
+### Étape 4 : Simulation de la Phase de Groupes
 *   **Fichier :** [`4_group_simulation.ipynb`](CAN_2025/4_group_simulation.ipynb)
 *   **Description Détaillée :**
     Nous reproduisons ici le tirage au sort officiel de la CAN 2025. Pour chaque match de poule :
@@ -66,16 +66,16 @@ Le projet est structuré de manière séquentielle dans le dossier `CAN_2025`. C
 
 ---
 
-### 🏆 Étape 5 : Prédiction des Phases à Élimination Directe (Knockout)
+### Étape 5 : Prédiction des Phases à Élimination Directe (Knockout)
 *   **Fichier :** [`5_knockout_prediction.ipynb`](CAN_2025/5_knockout_prediction.ipynb)
 *   **Description Détaillée :**
-    Une fois les 16 équipes qualifiées connues, nous simulons l'arbre final : Huitièmes ➡️ Quarts ➡️ Demies ➡️ Finale.
+    Une fois les 16 équipes qualifiées connues, nous simulons l'arbre final : Huitièmes -> Quarts -> Demies -> Finale.
     *   Intégration de la logique de prolongation et de tirs au but en cas d'égalité probabliste.
     *   Calcul des probabilités de qualification pas à pas pour chaque match.
 
 ---
 
-### 🥇 Étape 6 : Résultats Finaux et Visualisation
+### Étape 6 : Résultats Finaux et Visualisation
 *   **Fichier :** [`6_final_results.ipynb`](CAN_2025/6_final_results.ipynb)
 *   **Description Détaillée :**
     Ce dernier notebook agrège tous les résultats pour présenter :
@@ -85,7 +85,7 @@ Le projet est structuré de manière séquentielle dans le dossier `CAN_2025`. C
 
 ---
 
-## 🛠️ Installation et Exécution
+## Installation et Exécution
 
 Pour reproduire cette étude sur votre machine locale :
 
@@ -101,7 +101,7 @@ Pour reproduire cette étude sur votre machine locale :
     ```
 4.  Exécutez les notebooks dans l'ordre de 1 à 6.
 
-## 📁 Structure des Données (`data/`)
+## Structure des Données (`data/`)
 
 *   `can_matches.csv` : Données historiques brutes.
 *   `can_matches_cleaned_final.csv` : Données nettoyées servant à l'entraînement.
