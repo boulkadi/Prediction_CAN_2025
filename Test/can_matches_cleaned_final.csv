@@ -1,0 +1,753 @@
+HomeTeam,AwayTeam,Year,HomeGoals,AwayGoals,TotalGoals
+Cameroun,Kenya,1972,2,1,3
+Mali,Togo,1972,3,3,6
+Mali,Kenya,1972,1,1,2
+Cameroun,Togo,1972,2,0,2
+Togo,Kenya,1972,1,1,2
+Cameroun,Mali,1972,1,1,2
+Congo,Maroc,1972,1,1,2
+Zaïre,Soudan,1972,1,1,2
+Maroc,Soudan,1972,1,1,2
+Zaïre,Congo,1972,2,0,2
+Maroc,Zaïre,1972,1,1,2
+Congo,Soudan,1972,4,2,6
+Cameroun,Congo,1972,0,1,1
+Zaïre,Mali,1972,3,4,7
+Cameroun,Zaïre,1972,5,2,7
+Congo,Mali,1972,3,2,5
+Égypte,Ouganda,1974,2,1,3
+Zambie,Côte d'Ivoire,1974,1,0,1
+Égypte,Zambie,1974,3,1,4
+Côte d'Ivoire,Ouganda,1974,2,2,4
+Égypte,Côte d'Ivoire,1974,2,0,2
+Zambie,Ouganda,1974,1,0,1
+Zaïre,Guinée,1974,2,1,3
+Congo,Maurice,1974,2,0,2
+Guinée,Maurice,1974,2,1,3
+Congo,Zaïre,1974,2,1,3
+Guinée,Congo,1974,1,1,2
+Zaïre,Maurice,1974,4,1,5
+Égypte,Zaïre,1974,2,3,5
+Congo,Zambie,1974,2,4,6
+Égypte,Congo,1974,4,0,4
+Zaïre,Zambie,1974,2,2,4
+Zaïre,Zambie,1974,2,0,2
+Éthiopie,Ouganda,1976,2,0,2
+Égypte,Guinée,1976,1,1,2
+Égypte,Ouganda,1976,2,1,3
+Éthiopie,Guinée,1976,1,2,3
+Guinée,Ouganda,1976,2,1,3
+Éthiopie,Égypte,1976,1,1,2
+Nigeria,Zaïre,1976,4,2,6
+Maroc,Soudan,1976,2,2,4
+Nigeria,Soudan,1976,1,0,1
+Maroc,Zaïre,1976,1,0,1
+Maroc,Nigeria,1976,3,1,4
+Zaïre,Soudan,1976,1,1,2
+Guinée,Nigeria,1976,1,1,2
+Maroc,Égypte,1976,2,1,3
+Maroc,Nigeria,1976,2,1,3
+Guinée,Égypte,1976,4,2,6
+Nigeria,Égypte,1976,3,2,5
+Guinée,Maroc,1976,1,1,2
+Ghana,Zambie,1978,2,1,3
+Nigeria,Haute-Volta,1978,4,2,6
+Zambie,Haute-Volta,1978,2,0,2
+Nigeria,Ghana,1978,1,1,2
+Zambie,Nigeria,1978,0,0,0
+Ghana,Haute-Volta,1978,3,0,3
+Maroc,Tunisie,1978,1,1,2
+Ouganda,Congo,1978,3,1,4
+Tunisie,Ouganda,1978,3,1,4
+Maroc,Congo,1978,1,0,1
+Congo,Tunisie,1978,0,0,0
+Ouganda,Maroc,1978,3,0,3
+Ghana,Tunisie,1978,1,0,1
+Ouganda,Nigeria,1978,2,1,3
+Nigeria,Tunisie,1978,2,0,2
+Ghana,Ouganda,1978,2,0,2
+Nigeria,Tanzanie,1980,3,1,4
+Égypte,Côte d'Ivoire,1980,2,1,3
+Égypte,Tanzanie,1980,2,1,3
+Nigeria,Côte d'Ivoire,1980,0,0,0
+Côte d'Ivoire,Tanzanie,1980,1,1,2
+Nigeria,Égypte,1980,1,0,1
+Ghana,Algérie,1980,0,0,0
+Maroc,Guinée,1980,1,1,2
+Algérie,Maroc,1980,1,0,1
+Ghana,Guinée,1980,1,0,1
+Algérie,Guinée,1980,3,2,5
+Maroc,Ghana,1980,1,0,1
+Nigeria,Maroc,1980,1,0,1
+Algérie,Égypte,1980,2,2,4
+Maroc,Égypte,1980,2,0,2
+Nigeria,Algérie,1980,3,0,3
+Libye,Ghana,1982,2,2,4
+Cameroun,Tunisie,1982,1,1,2
+Cameroun,Ghana,1982,0,0,0
+Libye,Tunisie,1982,2,0,2
+Ghana,Tunisie,1982,1,0,1
+Libye,Cameroun,1982,0,0,0
+Nigeria,Éthiopie,1982,3,0,3
+Algérie,Zambie,1982,1,0,1
+Zambie,Éthiopie,1982,1,0,1
+Algérie,Nigeria,1982,2,1,3
+Algérie,Éthiopie,1982,0,0,0
+Zambie,Nigeria,1982,3,0,3
+Ghana,Algérie,1982,3,2,5
+Libye,Zambie,1982,2,1,3
+Zambie,Algérie,1982,2,0,2
+Ghana,Libye,1982,1,1,2
+Côte d'Ivoire,Togo,1984,3,0,3
+Égypte,Cameroun,1984,1,0,1
+Cameroun,Togo,1984,4,1,5
+Côte d'Ivoire,Égypte,1984,1,2,3
+Égypte,Togo,1984,0,0,0
+Côte d'Ivoire,Cameroun,1984,0,2,2
+Ghana,Nigeria,1984,1,2,3
+Algérie,Malawi,1984,3,0,3
+Malawi,Nigeria,1984,2,2,4
+Algérie,Ghana,1984,2,0,2
+Algérie,Nigeria,1984,0,0,0
+Ghana,Malawi,1984,1,0,1
+Égypte,Nigeria,1984,2,2,4
+Algérie,Cameroun,1984,0,0,0
+Algérie,Égypte,1984,3,1,4
+Cameroun,Nigeria,1984,3,1,4
+Sénégal,Égypte,1986,1,0,1
+Côte d'Ivoire,Mozambique,1986,3,0,3
+Sénégal,Mozambique,1986,2,0,2
+Égypte,Côte d'Ivoire,1986,2,0,2
+Côte d'Ivoire,Sénégal,1986,1,0,1
+Égypte,Mozambique,1986,2,0,2
+Algérie,Maroc,1986,0,0,0
+Cameroun,Zambie,1986,3,2,5
+Algérie,Zambie,1986,0,0,0
+Cameroun,Maroc,1986,1,1,2
+Maroc,Zambie,1986,1,0,1
+Cameroun,Algérie,1986,3,2,5
+Cameroun,Côte d'Ivoire,1986,1,0,1
+Égypte,Maroc,1986,1,0,1
+Côte d'Ivoire,Maroc,1986,3,2,5
+Égypte,Cameroun,1986,0,0,0
+Maroc,Zaïre,1988,1,1,2
+Côte d'Ivoire,Algérie,1988,1,1,2
+Côte d'Ivoire,Zaïre,1988,1,1,2
+Maroc,Algérie,1988,1,0,1
+Algérie,Zaïre,1988,1,0,1
+Maroc,Côte d'Ivoire,1988,0,0,0
+Cameroun,Égypte,1988,1,0,1
+Nigeria,Kenya,1988,3,0,3
+Cameroun,Nigeria,1988,1,1,2
+Égypte,Kenya,1988,3,0,3
+Cameroun,Kenya,1988,0,0,0
+Nigeria,Égypte,1988,0,0,0
+Nigeria,Algérie,1988,1,1,2
+Maroc,Cameroun,1988,0,1,1
+Maroc,Algérie,1988,1,1,2
+Cameroun,Nigeria,1988,1,0,1
+Algérie,Nigeria,1990,5,1,6
+Côte d'Ivoire,Égypte,1990,3,1,4
+Nigeria,Égypte,1990,1,0,1
+Algérie,Côte d'Ivoire,1990,3,0,3
+Nigeria,Côte d'Ivoire,1990,1,0,1
+Algérie,Égypte,1990,2,0,2
+Zambie,Cameroun,1990,1,0,1
+Sénégal,Kenya,1990,0,0,0
+Zambie,Kenya,1990,1,0,1
+Sénégal,Cameroun,1990,2,0,2
+Zambie,Sénégal,1990,0,0,0
+Cameroun,Kenya,1990,2,0,2
+Zambie,Nigeria,1990,0,2,2
+Algérie,Sénégal,1990,2,1,3
+Zambie,Sénégal,1990,1,0,1
+Algérie,Nigeria,1990,1,0,1
+Nigeria,Sénégal,1992,2,1,3
+Nigeria,Kenya,1992,2,1,3
+Sénégal,Kenya,1992,3,0,3
+Cameroun,Maroc,1992,1,0,1
+Maroc,Zaïre,1992,1,1,2
+Cameroun,Zaïre,1992,1,1,2
+Côte d'Ivoire,Algérie,1992,3,0,3
+Côte d'Ivoire,Congo,1992,0,0,0
+Algérie,Congo,1992,1,1,2
+Zambie,Égypte,1992,1,0,1
+Ghana,Zambie,1992,1,0,1
+Ghana,Égypte,1992,1,0,1
+Nigeria,Zaïre,1992,1,0,1
+Cameroun,Sénégal,1992,1,0,1
+Côte d'Ivoire,Zambie,1992,1,0,1
+Ghana,Congo,1992,2,1,3
+Ghana,Nigeria,1992,2,1,3
+Cameroun,Côte d'Ivoire,1992,0,0,0
+Nigeria,Cameroun,1992,2,1,3
+Côte d'Ivoire,Ghana,1992,0,0,0
+Tunisie,Mali,1994,0,2,2
+Mali,Zaïre,1994,0,1,1
+Tunisie,Zaïre,1994,1,1,2
+Nigeria,Gabon,1994,3,0,3
+Égypte,Gabon,1994,4,0,4
+Nigeria,Égypte,1994,0,0,0
+Côte d'Ivoire,Sierra Leone,1994,4,0,4
+Zambie,Sierra Leone,1994,0,0,0
+Zambie,Côte d'Ivoire,1994,1,0,1
+Ghana,Guinée,1994,1,0,1
+Sénégal,Guinée,1994,2,1,3
+Ghana,Sénégal,1994,1,0,1
+Zaïre,Nigeria,1994,0,2,2
+Égypte,Mali,1994,0,1,1
+Zambie,Sénégal,1994,1,0,1
+Ghana,Côte d'Ivoire,1994,1,2,3
+Nigeria,Côte d'Ivoire,1994,2,2,4
+Zambie,Mali,1994,4,0,4
+Côte d'Ivoire,Mali,1994,3,1,4
+Nigeria,Zambie,1994,2,1,3
+Afrique du Sud,Cameroun,1996,3,0,3
+Égypte,Angola,1996,2,1,3
+Cameroun,Égypte,1996,2,1,3
+Afrique du Sud,Angola,1996,1,0,1
+Afrique du Sud,Égypte,1996,0,1,1
+Angola,Cameroun,1996,3,3,6
+Zambie,Algérie,1996,0,0,0
+Sierra Leone,Burkina Faso,1996,2,1,3
+Algérie,Sierra Leone,1996,2,0,2
+Zambie,Burkina Faso,1996,5,1,6
+Algérie,Burkina Faso,1996,2,1,3
+Zambie,Sierra Leone,1996,4,0,4
+Gabon,Liberia,1996,1,2,3
+Gabon,Zaïre,1996,2,0,2
+Zaïre,Liberia,1996,2,0,2
+Ghana,Côte d'Ivoire,1996,2,0,2
+Tunisie,Mozambique,1996,1,1,2
+Ghana,Tunisie,1996,2,1,3
+Côte d'Ivoire,Mozambique,1996,1,0,1
+Tunisie,Côte d'Ivoire,1996,3,1,4
+Ghana,Mozambique,1996,2,0,2
+Afrique du Sud,Algérie,1996,2,1,3
+Zambie,Égypte,1996,3,1,4
+Gabon,Tunisie,1996,1,1,2
+Ghana,Zaïre,1996,1,0,1
+Afrique du Sud,Ghana,1996,3,0,3
+Zambie,Tunisie,1996,2,4,6
+Ghana,Zambie,1996,0,1,1
+Afrique du Sud,Tunisie,1996,2,0,2
+Burkina Faso,Cameroun,1998,0,1,1
+Algérie,Guinée,1998,0,1,1
+Cameroun,Guinée,1998,2,2,4
+Burkina Faso,Algérie,1998,2,1,3
+Burkina Faso,Guinée,1998,1,0,1
+Cameroun,Algérie,1998,2,1,3
+RD Congo,Togo,1998,2,1,3
+Ghana,Tunisie,1998,2,0,2
+Tunisie,RD Congo,1998,2,1,3
+Togo,Ghana,1998,2,1,3
+RD Congo,Ghana,1998,1,0,1
+Tunisie,Togo,1998,3,1,4
+Afrique du Sud,Angola,1998,0,0,0
+Côte d'Ivoire,Namibie,1998,4,3,7
+Côte d'Ivoire,Afrique du Sud,1998,1,1,2
+Angola,Namibie,1998,3,3,6
+Côte d'Ivoire,Angola,1998,5,2,7
+Afrique du Sud,Namibie,1998,4,1,5
+Maroc,Zambie,1998,1,1,2
+Égypte,Mozambique,1998,2,0,2
+Égypte,Zambie,1998,4,0,4
+Maroc,Mozambique,1998,3,0,3
+Zambie,Mozambique,1998,3,1,4
+Maroc,Égypte,1998,1,0,1
+Cameroun,RD Congo,1998,0,1,1
+Tunisie,Burkina Faso,1998,1,1,2
+Côte d'Ivoire,Égypte,1998,0,0,0
+Maroc,Afrique du Sud,1998,1,2,3
+RD Congo,Afrique du Sud,1998,1,2,3
+Burkina Faso,Égypte,1998,0,2,2
+RD Congo,Burkina Faso,1998,4,4,8
+Afrique du Sud,Égypte,1998,0,2,2
+Ghana,Cameroun,2000,1,1,2
+Côte d'Ivoire,Togo,2000,1,1,2
+Ghana,Togo,2000,2,0,2
+Cameroun,Côte d'Ivoire,2000,3,0,3
+Ghana,Côte d'Ivoire,2000,0,2,2
+Cameroun,Togo,2000,0,1,1
+Afrique du Sud,Gabon,2000,3,1,4
+RD Congo,Algérie,2000,0,0,0
+Afrique du Sud,RD Congo,2000,1,0,1
+Algérie,Gabon,2000,3,1,4
+Afrique du Sud,Algérie,2000,1,1,2
+RD Congo,Gabon,2000,0,0,0
+Égypte,Zambie,2000,2,0,2
+Burkina Faso,Sénégal,2000,1,3,4
+Égypte,Sénégal,2000,1,0,1
+Zambie,Burkina Faso,2000,1,1,2
+Égypte,Burkina Faso,2000,4,2,6
+Zambie,Sénégal,2000,2,2,4
+Nigeria,Tunisie,2000,4,2,6
+Maroc,Congo,2000,1,0,1
+Nigeria,Congo,2000,0,0,0
+Tunisie,Maroc,2000,0,0,0
+Nigeria,Maroc,2000,2,0,2
+Tunisie,Congo,2000,1,0,1
+Cameroun,Algérie,2000,2,1,3
+Afrique du Sud,Ghana,2000,1,0,1
+Égypte,Tunisie,2000,0,1,1
+Nigeria,Sénégal,2000,2,1,3
+Nigeria,Afrique du Sud,2000,2,0,2
+Cameroun,Tunisie,2000,3,0,3
+Afrique du Sud,Tunisie,2000,2,2,4
+Nigeria,Cameroun,2000,2,2,4
+Mali,Liberia,2002,1,1,2
+Algérie,Nigeria,2002,0,1,1
+Mali,Nigeria,2002,0,0,0
+Liberia,Algérie,2002,2,2,4
+Mali,Algérie,2002,2,0,2
+Liberia,Nigeria,2002,0,1,1
+Afrique du Sud,Burkina Faso,2002,0,0,0
+Maroc,Ghana,2002,0,0,0
+Afrique du Sud,Ghana,2002,0,0,0
+Burkina Faso,Maroc,2002,1,2,3
+Afrique du Sud,Maroc,2002,3,1,4
+Burkina Faso,Ghana,2002,1,2,3
+Cameroun,RD Congo,2002,1,0,1
+Togo,Côte d'Ivoire,2002,0,0,0
+Cameroun,Côte d'Ivoire,2002,1,0,1
+RD Congo,Togo,2002,0,0,0
+Cameroun,Togo,2002,3,0,3
+RD Congo,Côte d'Ivoire,2002,3,1,4
+Égypte,Sénégal,2002,0,1,1
+Zambie,Tunisie,2002,0,0,0
+Égypte,Tunisie,2002,1,0,1
+Sénégal,Zambie,2002,1,0,1
+Égypte,Zambie,2002,2,1,3
+Sénégal,Tunisie,2002,0,0,0
+Afrique du Sud,Mali,2002,0,2,2
+Nigeria,Ghana,2002,1,0,1
+Cameroun,Égypte,2002,1,0,1
+Sénégal,RD Congo,2002,2,0,2
+Nigeria,Sénégal,2002,1,2,3
+Mali,Cameroun,2002,0,3,3
+Nigeria,Mali,2002,1,0,1
+Sénégal,Cameroun,2002,0,0,0
+Tunisie,Rwanda,2004,2,1,3
+RD Congo,Guinée,2004,1,2,3
+Tunisie,RD Congo,2004,3,0,3
+Rwanda,Guinée,2004,1,1,2
+Tunisie,Guinée,2004,1,1,2
+Rwanda,RD Congo,2004,1,0,1
+Sénégal,Burkina Faso,2004,0,0,0
+Kenya,Mali,2004,1,3,4
+Burkina Faso,Mali,2004,1,3,4
+Sénégal,Kenya,2004,3,0,3
+Sénégal,Mali,2004,1,1,2
+Burkina Faso,Kenya,2004,0,3,3
+Zimbabwe,Égypte,2004,1,2,3
+Cameroun,Algérie,2004,1,1,2
+Cameroun,Zimbabwe,2004,5,3,8
+Algérie,Égypte,2004,2,1,3
+Cameroun,Égypte,2004,0,0,0
+Algérie,Zimbabwe,2004,1,2,3
+Nigeria,Maroc,2004,0,1,1
+Afrique du Sud,Bénin,2004,2,0,2
+Nigeria,Afrique du Sud,2004,4,0,4
+Maroc,Bénin,2004,4,0,4
+Maroc,Afrique du Sud,2004,1,1,2
+Nigeria,Bénin,2004,2,1,3
+"Tunisie
+Vainqueur du groupe A","Sénégal
+Second du groupe B",2004,1,0,1
+"Mali
+Vainqueur du groupe B","Guinée
+Second du groupe A",2004,2,1,3
+"Cameroun
+Vainqueur du groupe C","Nigeria
+Second du groupe D",2004,1,2,3
+"Maroc
+Vainqueur du groupe D","Algérie
+Second du groupe C",2004,3,1,4
+"Tunisie
+Vainqueur du premier quart","Nigeria
+Vainqueur du troisième quart",2004,1,1,2
+"Maroc
+Vainqueur du quatrième quart","Mali
+Vainqueur du deuxième quart",2004,4,0,4
+"Nigeria
+Perdant de la première demi-finale","Mali
+Perdant de la seconde demi-finale",2004,2,1,3
+"Tunisie
+Vainqueur de la première demi-finale","Maroc
+Vainqueur de la seconde demi-finale",2004,2,1,3
+Égypte,Libye,2006,3,0,3
+Maroc,Côte d'Ivoire,2006,0,1,1
+Libye,Côte d'Ivoire,2006,1,2,3
+Égypte,Maroc,2006,0,0,0
+Égypte,Côte d'Ivoire,2006,3,1,4
+Libye,Maroc,2006,0,0,0
+Cameroun,Angola,2006,3,1,4
+Togo,RD Congo,2006,0,2,2
+Angola,RD Congo,2006,0,0,0
+Cameroun,Togo,2006,2,0,2
+Angola,Togo,2006,3,2,5
+Cameroun,RD Congo,2006,2,0,2
+Tunisie,Zambie,2006,4,1,5
+Afrique du Sud,Guinée,2006,0,2,2
+Zambie,Guinée,2006,1,2,3
+Tunisie,Afrique du Sud,2006,2,0,2
+Tunisie,Guinée,2006,0,3,3
+Zambie,Afrique du Sud,2006,1,0,1
+Nigeria,Ghana,2006,1,0,1
+Zimbabwe,Sénégal,2006,0,2,2
+Ghana,Sénégal,2006,1,0,1
+Nigeria,Zimbabwe,2006,2,0,2
+Nigeria,Sénégal,2006,2,1,3
+Ghana,Zimbabwe,2006,1,2,3
+Guinée,Sénégal,2006,2,3,5
+Égypte,RD Congo,2006,4,1,5
+Nigeria,Tunisie,2006,1,1,2
+Cameroun,Côte d'Ivoire,2006,1,1,2
+Égypte,Sénégal,2006,2,1,3
+Nigeria,Côte d'Ivoire,2006,0,1,1
+Sénégal,Nigeria,2006,0,1,1
+Égypte,Côte d'Ivoire,2006,0,0,0
+Ghana,Guinée,2008,2,1,3
+Namibie,Maroc,2008,1,5,6
+Guinée,Maroc,2008,3,2,5
+Ghana,Namibie,2008,1,0,1
+Ghana,Maroc,2008,2,0,2
+Guinée,Namibie,2008,1,1,2
+Nigeria,Côte d'Ivoire,2008,0,1,1
+Mali,Bénin,2008,1,0,1
+Côte d'Ivoire,Bénin,2008,4,1,5
+Nigeria,Mali,2008,0,0,0
+Nigeria,Bénin,2008,2,0,2
+Côte d'Ivoire,Mali,2008,3,0,3
+Égypte,Cameroun,2008,4,2,6
+Soudan,Zambie,2008,0,3,3
+Cameroun,Zambie,2008,5,1,6
+Égypte,Soudan,2008,3,0,3
+Égypte,Zambie,2008,1,1,2
+Cameroun,Soudan,2008,3,0,3
+Tunisie,Sénégal,2008,2,2,4
+Afrique du Sud,Angola,2008,1,1,2
+Sénégal,Angola,2008,1,3,4
+Tunisie,Afrique du Sud,2008,3,1,4
+Sénégal,Afrique du Sud,2008,1,1,2
+Tunisie,Angola,2008,0,0,0
+Ghana,Nigeria,2008,2,1,3
+Côte d'Ivoire,Guinée,2008,5,0,5
+Égypte,Angola,2008,2,1,3
+Tunisie,Cameroun,2008,2,3,5
+Ghana,Cameroun,2008,0,1,1
+Côte d'Ivoire,Égypte,2008,1,4,5
+Ghana,Côte d'Ivoire,2008,4,2,6
+Angola,Mali,2010,4,4,8
+Malawi,Algérie,2010,3,0,3
+Mali,Algérie,2010,0,1,1
+Angola,Malawi,2010,2,0,2
+Angola,Algérie,2010,0,0,0
+Mali,Malawi,2010,3,1,4
+Côte d'Ivoire,Burkina Faso,2010,0,0,0
+Côte d'Ivoire,Ghana,2010,3,1,4
+Burkina Faso,Ghana,2010,0,1,1
+Égypte,Nigeria,2010,3,1,4
+Mozambique,Bénin,2010,2,2,4
+Nigeria,Bénin,2010,1,0,1
+Égypte,Mozambique,2010,2,0,2
+Égypte,Bénin,2010,2,0,2
+Nigeria,Mozambique,2010,3,0,3
+Cameroun,Gabon,2010,0,1,1
+Zambie,Tunisie,2010,1,1,2
+Gabon,Tunisie,2010,0,0,0
+Cameroun,Zambie,2010,3,2,5
+Cameroun,Tunisie,2010,2,2,4
+Gabon,Zambie,2010,1,2,3
+Angola,Ghana,2010,0,1,1
+Côte d'Ivoire,Algérie,2010,2,3,5
+Égypte,Cameroun,2010,3,1,4
+Zambie,Nigeria,2010,0,0,0
+Ghana,Nigeria,2010,1,0,1
+Algérie,Égypte,2010,0,4,4
+Nigeria,Algérie,2010,1,0,1
+Ghana,Égypte,2010,0,1,1
+Guinée équatoriale,Libye,2012,1,0,1
+Sénégal,Zambie,2012,1,2,3
+Libye,Zambie,2012,2,2,4
+Guinée équatoriale,Sénégal,2012,2,1,3
+Guinée équatoriale,Zambie,2012,0,1,1
+Libye,Sénégal,2012,2,1,3
+Côte d'Ivoire,Soudan,2012,1,0,1
+Burkina Faso,Angola,2012,1,2,3
+Soudan,Angola,2012,2,2,4
+Côte d'Ivoire,Burkina Faso,2012,2,0,2
+Soudan,Burkina Faso,2012,2,1,3
+Côte d'Ivoire,Angola,2012,2,0,2
+Gabon,Niger,2012,2,0,2
+Maroc,Tunisie,2012,1,2,3
+Tunisie,Niger,2012,2,1,3
+Gabon,Maroc,2012,3,2,5
+Gabon,Tunisie,2012,1,0,1
+Maroc,Niger,2012,1,0,1
+Ghana,Botswana,2012,1,0,1
+Mali,Guinée,2012,1,0,1
+Guinée,Botswana,2012,6,1,7
+Ghana,Mali,2012,2,0,2
+Mali,Botswana,2012,2,1,3
+Ghana,Guinée,2012,1,1,2
+Zambie,Soudan,2012,3,0,3
+Côte d'Ivoire,Guinée équatoriale,2012,3,0,3
+Gabon,Mali,2012,1,1,2
+Ghana,Tunisie,2012,2,1,3
+Zambie,Ghana,2012,1,0,1
+Mali,Côte d'Ivoire,2012,0,1,1
+Ghana,Mali,2012,0,2,2
+Zambie,Côte d'Ivoire,2012,0,0,0
+Afrique du Sud,Cap-Vert,2013,0,0,0
+Angola,Maroc,2013,0,0,0
+Afrique du Sud,Angola,2013,2,0,2
+Maroc,Cap-Vert,2013,1,1,2
+Maroc,Afrique du Sud,2013,2,2,4
+Cap-Vert,Angola,2013,2,1,3
+Ghana,RD Congo,2013,2,2,4
+Mali,Niger,2013,1,0,1
+Ghana,Mali,2013,1,0,1
+Niger,RD Congo,2013,0,0,0
+Niger,Ghana,2013,0,3,3
+Mali,RD Congo,2013,1,1,2
+Zambie,Éthiopie,2013,1,1,2
+Nigeria,Burkina Faso,2013,1,1,2
+Zambie,Nigeria,2013,1,1,2
+Burkina Faso,Éthiopie,2013,4,0,4
+Burkina Faso,Zambie,2013,0,0,0
+Éthiopie,Nigeria,2013,0,2,2
+Côte d'Ivoire,Togo,2013,2,1,3
+Tunisie,Algérie,2013,1,0,1
+Côte d'Ivoire,Tunisie,2013,3,0,3
+Algérie,Togo,2013,0,2,2
+Algérie,Côte d'Ivoire,2013,2,2,4
+Togo,Tunisie,2013,1,1,2
+Ghana,Cap-Vert,2013,2,0,2
+Afrique du Sud,Mali,2013,1,1,2
+Côte d'Ivoire,Nigeria,2013,1,2,3
+Burkina Faso,Togo,2013,1,0,1
+Mali,Nigeria,2013,1,4,5
+Burkina Faso,Ghana,2013,1,1,2
+Mali,Ghana,2013,3,1,4
+Nigeria,Burkina Faso,2013,1,0,1
+Guinée équatoriale,Congo,2015,1,1,2
+Burkina Faso,Gabon,2015,0,2,2
+Guinée équatoriale,Burkina Faso,2015,0,0,0
+Gabon,Congo,2015,0,1,1
+Gabon,Guinée équatoriale,2015,0,2,2
+Congo,Burkina Faso,2015,2,1,3
+Zambie,RD Congo,2015,1,1,2
+Tunisie,Cap-Vert,2015,1,1,2
+Zambie,Tunisie,2015,1,2,3
+RD Congo,Cap-Vert,2015,0,0,0
+Cap-Vert,Zambie,2015,0,0,0
+RD Congo,Tunisie,2015,1,1,2
+Ghana,Sénégal,2015,1,2,3
+Algérie,Afrique du Sud,2015,3,1,4
+Ghana,Algérie,2015,1,0,1
+Afrique du Sud,Sénégal,2015,1,1,2
+Afrique du Sud,Ghana,2015,1,2,3
+Sénégal,Algérie,2015,0,2,2
+Côte d'Ivoire,Guinée,2015,1,1,2
+Mali,Cameroun,2015,1,1,2
+Côte d'Ivoire,Mali,2015,1,1,2
+Cameroun,Guinée,2015,1,1,2
+Cameroun,Côte d'Ivoire,2015,0,1,1
+Guinée,Mali,2015,1,1,2
+Congo,RD Congo,2015,2,4,6
+Côte d'Ivoire,Algérie,2015,3,1,4
+Tunisie,Guinée équatoriale,2015,1,2,3
+Ghana,Guinée,2015,3,0,3
+RD Congo,Côte d'Ivoire,2015,1,3,4
+Ghana,Guinée équatoriale,2015,3,0,3
+RD Congo,Guinée équatoriale,2015,0,0,0
+Côte d'Ivoire,Ghana,2015,0,0,0
+Gabon,Guinée-Bissau,2017,1,1,2
+Burkina Faso,Cameroun,2017,1,1,2
+Gabon,Burkina Faso,2017,1,1,2
+Cameroun,Guinée-Bissau,2017,2,1,3
+Cameroun,Gabon,2017,0,0,0
+Guinée-Bissau,Burkina Faso,2017,0,2,2
+Algérie,Zimbabwe,2017,2,2,4
+Tunisie,Sénégal,2017,0,2,2
+Algérie,Tunisie,2017,1,2,3
+Sénégal,Zimbabwe,2017,2,0,2
+Sénégal,Algérie,2017,2,2,4
+Zimbabwe,Tunisie,2017,2,4,6
+Côte d'Ivoire,Togo,2017,0,0,0
+RD Congo,Maroc,2017,1,0,1
+Côte d'Ivoire,RD Congo,2017,2,2,4
+Maroc,Togo,2017,3,1,4
+Maroc,Côte d'Ivoire,2017,1,0,1
+Togo,RD Congo,2017,1,3,4
+Ghana,Ouganda,2017,1,0,1
+Mali,Égypte,2017,0,0,0
+Ghana,Mali,2017,1,0,1
+Égypte,Ouganda,2017,1,0,1
+Égypte,Ghana,2017,1,0,1
+Ouganda,Mali,2017,1,1,2
+Burkina Faso,Tunisie,2017,2,0,2
+Sénégal,Cameroun,2017,0,0,0
+RD Congo,Ghana,2017,1,2,3
+Égypte,Maroc,2017,1,0,1
+Burkina Faso,Égypte,2017,1,1,2
+Cameroun,Ghana,2017,2,0,2
+Burkina Faso,Ghana,2017,1,0,1
+Égypte,Cameroun,2017,1,2,3
+Égypte,Zimbabwe,2019,1,0,1
+RD Congo,Ouganda,2019,0,2,2
+Égypte,RD Congo,2019,2,0,2
+Ouganda,Zimbabwe,2019,1,1,2
+Ouganda,Égypte,2019,0,2,2
+Zimbabwe,RD Congo,2019,0,4,4
+Nigeria,Burundi,2019,1,0,1
+Guinée,Madagascar,2019,2,2,4
+Nigeria,Guinée,2019,1,0,1
+Madagascar,Burundi,2019,1,0,1
+Madagascar,Nigeria,2019,2,0,2
+Burundi,Guinée,2019,0,2,2
+Sénégal,Tanzanie,2019,2,0,2
+Algérie,Kenya,2019,2,0,2
+Sénégal,Algérie,2019,0,1,1
+Kenya,Tanzanie,2019,3,2,5
+Kenya,Sénégal,2019,0,3,3
+Tanzanie,Algérie,2019,0,3,3
+Maroc,Namibie,2019,1,0,1
+Côte d'Ivoire,Afrique du Sud,2019,1,0,1
+Maroc,Côte d'Ivoire,2019,1,0,1
+Afrique du Sud,Namibie,2019,1,0,1
+Afrique du Sud,Maroc,2019,0,1,1
+Namibie,Côte d'Ivoire,2019,1,4,5
+Tunisie,Angola,2019,1,1,2
+Mali,Mauritanie,2019,4,1,5
+Tunisie,Mali,2019,1,1,2
+Mauritanie,Angola,2019,0,0,0
+Mauritanie,Tunisie,2019,0,0,0
+Angola,Mali,2019,0,1,1
+Cameroun,Guinée-Bissau,2019,2,0,2
+Ghana,Bénin,2019,2,2,4
+Cameroun,Ghana,2019,0,0,0
+Bénin,Guinée-Bissau,2019,0,0,0
+Bénin,Cameroun,2019,0,0,0
+Guinée-Bissau,Ghana,2019,0,2,2
+Madagascar,RD Congo,2019,2,2,4
+Ouganda,Sénégal,2019,0,1,1
+Égypte,Afrique du Sud,2019,0,1,1
+Algérie,Guinée,2019,3,0,3
+Maroc,Bénin,2019,1,1,2
+Nigeria,Cameroun,2019,3,2,5
+Mali,Côte d'Ivoire,2019,0,1,1
+Ghana,Tunisie,2019,1,1,2
+Sénégal,Bénin,2019,1,0,1
+Madagascar,Tunisie,2019,0,3,3
+Côte d'Ivoire,Algérie,2019,1,1,2
+Nigeria,Afrique du Sud,2019,2,1,3
+Sénégal,Tunisie,2019,1,0,1
+Algérie,Nigeria,2019,2,1,3
+Tunisie,Nigeria,2019,0,1,1
+Sénégal,Algérie,2019,0,1,1
+Cameroun,Burkina Faso,2021,2,1,3
+Éthiopie,Cap-Vert,2021,0,1,1
+Cameroun,Éthiopie,2021,4,1,5
+Cap-Vert,Burkina Faso,2021,0,1,1
+Cap-Vert,Cameroun,2021,1,1,2
+Burkina Faso,Éthiopie,2021,1,1,2
+Sénégal,Zimbabwe,2021,1,0,1
+Guinée,Malawi,2021,1,0,1
+Sénégal,Guinée,2021,0,0,0
+Malawi,Zimbabwe,2021,2,1,3
+Malawi,Sénégal,2021,0,0,0
+Zimbabwe,Guinée,2021,2,1,3
+Maroc,Ghana,2021,1,0,1
+Comores,Gabon,2021,0,1,1
+Maroc,Comores,2021,2,0,2
+Gabon,Ghana,2021,1,1,2
+Gabon,Maroc,2021,2,2,4
+Ghana,Comores,2021,2,3,5
+Nigeria,Égypte,2021,1,0,1
+Soudan,Guinée-Bissau,2021,0,0,0
+Nigeria,Soudan,2021,3,1,4
+Guinée-Bissau,Égypte,2021,0,1,1
+Guinée-Bissau,Nigeria,2021,0,2,2
+Égypte,Soudan,2021,1,0,1
+Algérie,Sierra Leone,2021,0,0,0
+Guinée équatoriale,Côte d'Ivoire,2021,0,1,1
+Côte d'Ivoire,Sierra Leone,2021,2,2,4
+Algérie,Guinée équatoriale,2021,0,1,1
+Côte d'Ivoire,Algérie,2021,3,1,4
+Sierra Leone,Guinée équatoriale,2021,0,1,1
+Tunisie,Mali,2021,0,1,1
+Mauritanie,Gambie,2021,0,1,1
+Gambie,Mali,2021,1,1,2
+Tunisie,Mauritanie,2021,4,0,4
+Gambie,Tunisie,2021,1,0,1
+Mali,Mauritanie,2021,2,0,2
+Burkina Faso,Gabon,2021,1,1,2
+Nigeria,Tunisie,2021,0,1,1
+Guinée,Gambie,2021,0,1,1
+Cameroun,Comores,2021,2,1,3
+Sénégal,Cap-Vert,2021,2,0,2
+Maroc,Malawi,2021,2,1,3
+Côte d'Ivoire,Égypte,2021,0,0,0
+Mali,Guinée équatoriale,2021,0,0,0
+Gambie,Cameroun,2021,0,2,2
+Burkina Faso,Tunisie,2021,1,0,1
+Égypte,Maroc,2021,2,1,3
+Sénégal,Guinée équatoriale,2021,3,1,4
+Burkina Faso,Sénégal,2021,1,3,4
+Cameroun,Égypte,2021,0,0,0
+Burkina Faso,Cameroun,2021,3,3,6
+Sénégal,Égypte,2021,0,0,0
+Côte d'Ivoire,Guinée-Bissau,2023,2,0,2
+Nigeria,Guinée équatoriale,2023,1,1,2
+Guinée équatoriale,Guinée-Bissau,2023,4,2,6
+Côte d'Ivoire,Nigeria,2023,0,1,1
+Guinée-Bissau,Nigeria,2023,0,1,1
+Guinée équatoriale,Côte d'Ivoire,2023,4,0,4
+Égypte,Mozambique,2023,2,2,4
+Ghana,Cap-Vert,2023,1,2,3
+Égypte,Ghana,2023,2,2,4
+Cap-Vert,Mozambique,2023,3,0,3
+Mozambique,Ghana,2023,2,2,4
+Cap-Vert,Égypte,2023,2,2,4
+Sénégal,Gambie,2023,3,0,3
+Cameroun,Guinée,2023,1,1,2
+Sénégal,Cameroun,2023,3,1,4
+Guinée,Gambie,2023,1,0,1
+Guinée,Sénégal,2023,0,2,2
+Gambie,Cameroun,2023,2,3,5
+Algérie,Angola,2023,1,1,2
+Burkina Faso,Mauritanie,2023,1,0,1
+Algérie,Burkina Faso,2023,2,2,4
+Mauritanie,Angola,2023,2,3,5
+Angola,Burkina Faso,2023,2,0,2
+Mauritanie,Algérie,2023,1,0,1
+Tunisie,Namibie,2023,0,1,1
+Mali,Afrique du Sud,2023,2,0,2
+Tunisie,Mali,2023,1,1,2
+Afrique du Sud,Namibie,2023,4,0,4
+Namibie,Mali,2023,0,0,0
+Afrique du Sud,Tunisie,2023,0,0,0
+Maroc,Tanzanie,2023,3,0,3
+RD Congo,Zambie,2023,1,1,2
+Maroc,RD Congo,2023,1,1,2
+Zambie,Tanzanie,2023,1,1,2
+Tanzanie,RD Congo,2023,0,0,0
+Zambie,Maroc,2023,0,1,1
+Angola,Namibie,2023,3,0,3
+Nigeria,Cameroun,2023,2,0,2
+Guinée équatoriale,Guinée,2023,0,1,1
+Égypte,RD Congo,2023,1,1,2
+Cap-Vert,Mauritanie,2023,1,0,1
+Sénégal,Côte d'Ivoire,2023,1,1,2
+Mali,Burkina Faso,2023,2,1,3
+Maroc,Afrique du Sud,2023,0,2,2
+Nigeria,Angola,2023,1,0,1
+RD Congo,Guinée,2023,3,1,4
+Mali,Côte d'Ivoire,2023,1,2,3
+Cap-Vert,Afrique du Sud,2023,0,0,0
+Nigeria,Afrique du Sud,2023,1,1,2
+Côte d'Ivoire,RD Congo,2023,1,0,1
+Afrique du Sud,RD Congo,2023,0,0,0
+Nigeria,Côte d'Ivoire,2023,1,2,3

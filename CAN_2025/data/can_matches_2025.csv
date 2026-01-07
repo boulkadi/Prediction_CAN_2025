@@ -1,0 +1,53 @@
+HomeTeam,AwayTeam,Year,HomeGoals,AwayGoals,match_number
+Maroc,Comores,2025,,,Match 1
+Mali,Zambie,2025,,,Match 2
+Maroc,Mali,2025,,,Match 13
+Zambie,Comores,2025,,,Match 14
+Zambie,Maroc,2025,,,Match 25
+Comores,Mali,2025,,,Match 26
+Égypte,Zimbabwe,2025,,,Match 3
+Afrique du Sud,Angola,2025,,,Match 4
+Égypte,Afrique du Sud,2025,,,Match 15
+Zimbabwe,Angola,2025,,,Match 16
+Angola,Égypte,2025,,,Match 27
+Zimbabwe,Afrique du Sud,2025,,,Match 28
+Nigeria,Tanzanie,2025,,,Match 5
+Tunisie,Ouganda,2025,,,Match 6
+Nigeria,Tunisie,2025,,,Match 17
+Ouganda,Tanzanie,2025,,,Match 18
+Ouganda,Nigeria,2025,,,Match 29
+Tanzanie,Tunisie,2025,,,Match 30
+Sénégal,Botswana,2025,,,Match 7
+RD Congo,Bénin,2025,,,Match 8
+Sénégal,RD Congo,2025,,,Match 19
+Bénin,Botswana,2025,,,Match 20
+Bénin,Sénégal,2025,,,Match 31
+Botswana,RD Congo,2025,,,Match 32
+Algérie,Soudan,2025,,,Match 9
+Burkina Faso,Guinée équatoriale,2025,,,Match 10
+Algérie,Burkina Faso,2025,,,Match 21
+Guinée équatoriale,Soudan,2025,,,Match 22
+Guinée équatoriale,Algérie,2025,,,Match 33
+Soudan,Burkina Faso,2025,,,Match 34
+Côte d'Ivoire,Mozambique,2025,,,Match 11
+Cameroun,Gabon,2025,,,Match 12
+Côte d'Ivoire,Cameroun,2025,,,Match 23
+Gabon,Mozambique,2025,,,Match 24
+Gabon,Côte d'Ivoire,2025,,,Match 35
+Mozambique,Cameroun,2025,,,Match 36
+1er du groupe D,3e du groupe B/E/F,2025,,,Match 37
+2e du groupe A,2e du groupe C,2025,,,Match 38
+1er du groupe A,3e du groupe C/D/E,2025,,,Match 39
+2e du groupe B,2e du groupe F,2025,,,Match 40
+1er du groupe B,3e du groupe A/C/D,2025,,,Match 41
+1er du groupe C,3e du groupe A/B/F,2025,,,Match 42
+1er du groupe E,2e du groupe D,2025,,,Match 43
+1er du groupe F,2e du groupe E,2025,,,Match 44
+Vainqueur Match 38,Vainqueur Match 37,2025,,,Match 45
+Vainqueur Match 40,Vainqueur Match 39,2025,,,Match 46
+Vainqueur Match 43,Vainqueur Match 42,2025,,,Match 47
+Vainqueur Match 41,Vainqueur Match 44,2025,,,Match 48
+Vainqueur Match 45,Vainqueur Match 48,2025,,,Match 49
+Vainqueur Match 47,Vainqueur Match 46,2025,,,Match 50
+Perdant Match 49,Perdant Match 50,2025,,,Match 51
+Vainqueur Match 49,Vainqueur Match 50,2025,,,Match 52
